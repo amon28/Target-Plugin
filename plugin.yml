@@ -1,0 +1,9 @@
+name: ArrowTarget
+version: 1.0
+main: ArrowTarget\Main
+api: [3.0.0]
+author: Amon
+
+commands:
+ at:
+  description: Arrow Target Command
